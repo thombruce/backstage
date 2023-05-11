@@ -1,4 +1,6 @@
-# README
+# Backstage
+
+![CI](https://github.com/thombruce/backstage/actions/workflows/ci.yml/badge.svg)
 
 ## Development
 
