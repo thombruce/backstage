@@ -60,6 +60,7 @@ group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
 
   gem "rubocop"
+  gem "rubocop-rails"
 end
 
 group :development do
